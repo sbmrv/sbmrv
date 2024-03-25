@@ -64,6 +64,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sbmrv/sbmrv/output/snake.svg" alt="Snake animation" />
-
 ###
