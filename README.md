@@ -1,4 +1,4 @@
-<h2 align="left">Hello👋! My name is Shubham Varanshe and I'm a Fullstack Developer, from India.</h2>
+<h2 align="left">Hello👋! My name is Shubham Varanshe and I'm a Fullstack Developer.</h2>
 
 ###
 
